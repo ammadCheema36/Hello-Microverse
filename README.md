@@ -11,6 +11,8 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
   - [Install](#install)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
@@ -47,7 +49,8 @@
 
 In order to run this project you need:
 
-N/A
+- Browsers 
+- live server  
 ### Setup
 
 Clone this repository to your desired folder:
@@ -55,13 +58,31 @@ Clone this repository to your desired folder:
 git clone git@github.com:ammadCheema36/Hello-Microverse.git
 ### Install
 
+  ```sh
+  npm install
+```
 
 ### Usage
 
 To run the project, execute the following command:
-after cloning view using live sever 
 
+- Open the index.html with the LiveServer extension 
+### Run tests
 
+To run tests, run the following command:
+
+- To track HTML linter errors run:
+```
+npx hint .
+```
+- To track CSS linter errors run::
+```
+npx stylelint "**/*.{css,scss}"
+```
+- To track JavaScript linter errors run:
+```
+npx eslint .
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
