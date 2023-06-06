@@ -8,7 +8,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -23,7 +22,6 @@
 
 # 📖 [Hello microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello microverse]** is a simple webpage to show Hello Microverse
 
@@ -36,7 +34,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> this project has the following key features of the application.
 
 - **[html and css]**
 
@@ -45,10 +42,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites 
 
@@ -74,8 +67,8 @@ after cloning view using live sever
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+ 
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -101,7 +94,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project give start 
 
